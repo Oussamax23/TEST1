@@ -1,6 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"Default",
-	"Alias":"Alias",
-	"Expression":"{[ACTIVITE].[ACTIVITE].MEMBERS}"
-}
