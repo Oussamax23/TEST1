@@ -1,0 +1,11 @@
+{
+	"@type":"Subset",
+	"Name":"Promotion",
+	"Alias":"Alias",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('ACTIVITE')/Hierarchies('ACTIVITE')/Elements('ACT_PRO')"
+		}
+	]
+}
